@@ -1,5 +1,4 @@
-# Submission for Data Engineering challenge assignments in Wealth42
-
+Live london Bike availability - Storing and EDA  
 ##### My setup.
   - python 3.6.8
   - Ubuntu 18.04
