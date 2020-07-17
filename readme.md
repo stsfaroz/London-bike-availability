@@ -1,4 +1,4 @@
-# Live london Bike availability - Storing and EDA  
+# Live london Bike availability - Storing and Forecasting
 ##### My setup.
   - python 3.6.8
   - Ubuntu 18.04
